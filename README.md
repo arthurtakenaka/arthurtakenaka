@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/arthurtakenaka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurtakenaka&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtakenaka&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurtakenaka&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtakenaka&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/288472812136562699/1026691756542144553/7887d84db7c0b15788dde3e4aacfa0466eddf772_hq.gif">
